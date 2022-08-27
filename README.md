@@ -1,5 +1,8 @@
 # LenovoMall
-ouc 软工实践课设
+ouc 软工实践课设（后端）
+
+前端：<https://github.com/blankspacez/LenovoMall_View>
+
 # lenovoMall（参考联想商城）
 
 ## 项目简介
