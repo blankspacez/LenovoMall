@@ -1,0 +1,19 @@
+server:
+  port: 3030
+spring:
+  mvc:
+    static-path-pattern: /**
+  datasource:
+    url: jdbc:mysql://localhost:3306/lenovo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+  redis:
+    host: localhost
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+mybatis:
+  configuration:
+    mapUnderscoreToCamelCase: true
